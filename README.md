@@ -6,6 +6,8 @@ Choose a prototype World Cup fixture and pick **Home**, **Draw**, or **Away**. T
 
 This is deliberately **not a predictor** and it is not a chatbot. The product idea is simple: make a user’s prediction feel more considered before they lock it in.
 
+**Live demo:** [devils-advocate-alpha.vercel.app](https://devils-advocate-alpha.vercel.app/)
+
 ## Product intent
 
 The feature is designed around one focused interaction:
